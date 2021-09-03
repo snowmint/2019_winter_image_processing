@@ -56,3 +56,19 @@ The homework of Image Processing with C++ and OpenCV.
   <img alt="Radial blur" src="/20191031_blurAndRelief/radial_blur.bmp" width="200" />
   <img alt="relief transformation" src="/20191031_blurAndRelief/relief_transformation.bmp" width="200" />
 </p>
+
+20191105
+> wind effect
+
+<p float="left">
+  <img alt="source" src="/20191105_wind/cap3_07a.bmp" width="200" />
+  <img alt="wind effect" src="/20191105_wind/wind.bmp" width="200" />
+  <img alt="heavy wind" src="/20191105_wind/heavy_wind.bmp" width="200" />
+</p>
+
+<p float="left">
+  <img alt="left-down to right-up" src="/20191105_wind/left-down_to_right-up.bmp" width="200" />
+  <img alt="left-up to right-down" src="/20191105_wind/left-up_to_right-down.bmp" width="200" />
+  <img alt="right-down to left-up" src="/20191105_wind/right-down_to_left-up.bmp" width="200" />
+  <img alt="right-up to left-down" src="/20191105_wind/right-up_to_left-down.bmp" width="200" />
+</p>
