@@ -57,7 +57,7 @@ The homework of Image Processing with C++ and OpenCV.
   <img alt="relief transformation" src="/20191031_blurAndRelief/relief_transformation.bmp" width="200" />
 </p>
 
-20191105
+20191105_wind
 > wind effect
 
 <table>
@@ -88,7 +88,7 @@ The homework of Image Processing with C++ and OpenCV.
   </tr>
 </table>
 
-20191121
+20191121_bigger_smaller
 > Resize the image. Enlarge or shrink image sizes.
 
 <table>
@@ -101,5 +101,24 @@ The homework of Image Processing with C++ and OpenCV.
     <td><img alt="shrink wind" src="/20191121_bigger_smaller/smaller.bmp" width="160" ></td>
     <td><img alt="source" src="/20191121_bigger_smaller/cap3_07a.bmp" width="200" ></td>
     <td><img alt="enlarge" src="/20191121_bigger_smaller/bigger.bmp" width="240" ></td>
+  </tr>
+</table>
+
+20191128_lagrange
+> affine deformation(仿射變換) and shear transformation(剪切變形)
+> Use specify width and height to resize the image.
+
+<table>
+  <tr>
+    <td>source</td>
+    <td>resize with specify width height</td>
+    <td>affine deformation</td>
+    <td>shear transformation</td>
+  </tr>
+  <tr>
+    <td><img alt="source" src="/20191128_lagrange/Lenna.bmp" width="200" ></td>
+    <td><img alt="resize with specify width height" src="/20191128_lagrange/resize_with_specify_width_height.bmp" width="200" ></td>
+    <td><img alt="affine deformation" src="/20191128_lagrange/affine_deformation.bmp" width="200" ></td>
+    <td><img alt="shear transformation" src="/20191128_lagrange/shear_transformation.bmp" width="200" ></td>
   </tr>
 </table>
