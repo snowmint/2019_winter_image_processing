@@ -10,7 +10,6 @@ The homework of Image Processing with C++ and OpenCV.
 ![Damier Check](/20190919_bmpGenerate/out.bmp)
 ![Square](/20190919_bmpGenerate/out1.bmp)
 ![Rectangle](/20190919_bmpGenerate/out2.bmp)
-
 ![Lenna](/20190919_bmpGenerate/Lenna.bmp)
 ![Add-on Rectangle](/20190919_bmpGenerate/src1.bmp)
 ![Add-on Circle](/20190919_bmpGenerate/src2.bmp)
