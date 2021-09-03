@@ -76,8 +76,15 @@ The homework of Image Processing with C++ and OpenCV.
 20191121
 > Resize the image. Enlarge or shrink image sizes.
 
-<p float="left">
-  <img alt="source" src="/20191121_bigger_smaller/cap3_07a.bmp" width="200" />
-  <img alt="enlarge" src="/20191121_bigger_smaller/bigger.bmp" width="240" />
-  <img alt="shrink wind" src="/20191121_bigger_smaller/smaller.bmp" width="160" />
-</p>
+<table>
+  <tr>
+    <td>Shrink</td>
+    <td>Source</td>
+    <td>Enlarge</td>
+  </tr>
+  <tr>
+    <td><img alt="shrink wind" src="/20191121_bigger_smaller/smaller.bmp" width="160" ></td>
+    <td><img alt="source" src="/20191121_bigger_smaller/cap3_07a.bmp" width="200" ></td>
+    <td><img alt="enlarge" src="/20191121_bigger_smaller/bigger.bmp" width="240" ></td>
+  </tr>
+</table>
