@@ -53,7 +53,7 @@ The homework of Image Processing with C++ and OpenCV.
 
 <p float="left">
   <img alt="source" src="/20191031_blurAndRelief/cap3_07a.bmp" width="200" />
-  <img alt="Radial blur" src="/20191031_blurAndRelief/radial_blur.bmp" width="200" />
+  <img alt="Radial blur" src="/20191031_blurAndRelief/Radial_blur.bmp" width="200" />
   <img alt="relief transformation" src="/20191031_blurAndRelief/relief_transformation.bmp" width="200" />
 </p>
 
