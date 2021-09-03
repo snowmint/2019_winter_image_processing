@@ -11,10 +11,21 @@ The homework of Image Processing with C++ and OpenCV.
 ![Square](/20190919_bmpGenerate/out1.bmp)
 ![Rectangle](/20190919_bmpGenerate/out2.bmp)
 
+![Lenna](/20190919_bmpGenerate/Lenna.bmp)
+![Add-on Rectangle](/20190919_bmpGenerate/src1.bmp)
+![Add-on Circle](/20190919_bmpGenerate/src2.bmp)
+
 
 20190926_colorGenerate
-> histogram stretching and gamma correction
+> Histogram stretching and gamma correction (gamma < 1 lit, gamma > 1 dim)
 
 ![histogram stretching and Gamma correction](/20190926_colorGenerate/colorGenerate_result.png)
 ![Gamma correction](/20190926_colorGenerate/gamma_correction.png)
+
+20191003_maskFilter
+> Smoothing(加權平均平滑化), Sharpen(銳利化), and use self-made filter to get different effect
+
+![Mask filter effect](/20191003_maskFilter/mask_effect.png)
+
+
 

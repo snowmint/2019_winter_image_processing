@@ -4,6 +4,9 @@
 using namespace std;
 using namespace cv;
 
+//gamma < 1 light
+//gamma > 1 dark
+
 void MyGammaCorrection(Mat& src, Mat& dst, float fGamma)
 {
 
