@@ -30,20 +30,26 @@ The homework of Image Processing with C++ and OpenCV.
 ![Mask filter effect](/20191003_maskFilter/mask_effect.png)
 
 20191016_cannyAndSobel
+> Edge detection 邊緣偵測
+> Sobel(邊緣偵測) and Canny(複合型邊緣偵測)
 
 <p float="left">
   <img alt="source" src="/20191016_cannyAndSobel/cap3_02a.bmp" width="200" />
-  <img alt="sobel" src="/20191016_cannyAndSobel/sobel.bmp" width="200" />
   <img alt="canny" src="/20191016_cannyAndSobel/canny.bmp" width="200" />
+  <img alt="sobel" src="/20191016_cannyAndSobel/sobel.bmp" width="200" />
 </p>
 
 20191031_blurAndRelief
+> Blur and Smoothing 模糊和平滑化
+> Sobel smoothing with remain the edge (Sobel 邊緣保留平滑化) 和 median filtering 中值化
 
 <p float="left">
   <img alt="source" src="/20191031_blurAndRelief/cap3_02a.bmp" width="200" />
-  <img alt="sobel" src="/20191031_blurAndRelief/sobel.bmp" width="200" />
+  <img alt="sobel keep edge smoothing" src="/20191031_blurAndRelief/sobel_keep_edge_smoothing.bmp" width="200" />
   <img alt="median filtering" src="/20191031_blurAndRelief/median_filtering.bmp" width="200" />
 </p>
+
+> Radial blur(放射狀模糊化) and Relief tansformation(浮雕處理)
 
 <p float="left">
   <img alt="source" src="/20191031_blurAndRelief/cap3_07a.bmp" width="200" />
