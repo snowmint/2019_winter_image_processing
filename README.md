@@ -72,3 +72,12 @@ The homework of Image Processing with C++ and OpenCV.
   <img alt="right-down to left-up" src="/20191105_wind/right-down_to_left-up.bmp" width="200" />
   <img alt="right-up to left-down" src="/20191105_wind/right-up_to_left-down.bmp" width="200" />
 </p>
+
+20191121
+> Resize the image. Enlarge or shrink image sizes.
+
+<p float="left">
+  <img alt="source" src="/20191121_bigger_smaller/cap3_07a.bmp" width="200" />
+  <img alt="enlarge" src="/20191121_bigger_smaller/bigger.bmp" width="240" />
+  <img alt="shrink wind" src="/20191121_bigger_smaller/smaller.bmp" width="160" />
+</p>
