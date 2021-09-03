@@ -25,10 +25,10 @@ int main() {
 	effect_3_7(src, res1);
 	effect_3_10(src, res2);
 
-	imshow("sobel", res1);
+	imshow("sobel_keep_edge_smoothing", res1);
 	imshow("median filtering", res2);
 
-	imwrite("sobel.bmp", res1);
+	imwrite("sobel_keep_edge_smoothing.bmp", res1);
 	imwrite("median_filtering.bmp", res2);
 
 	waitKey(0);

@@ -35,8 +35,8 @@ int main() {
 	imshow("radial blur ", res1);
 	imshow("relief transformation", res2);
 
-	imwrite("Radial_blur.bmp", res1);
-	imwrite("relief transformation.bmp", res2);
+	imwrite("radial_blur.bmp", res1);
+	imwrite("relief_transformation.bmp", res2);
 
 	waitKey(0);
 	return 0;
