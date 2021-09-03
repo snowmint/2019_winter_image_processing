@@ -7,9 +7,9 @@ The homework of Image Processing with C++ and OpenCV.
 20190919_bmpGenerate
 > Use C to draw the BMP image, such as Damier Check, square, and rectangle. 
 
-![Damier Check](/20190919_bmpGenerate_OK/20190919_bmpGenerate/out.bmp)
-![Damier Check](/20190919_bmpGenerate_OK/20190919_bmpGenerate/out1.bmp)
-![Damier Check](/20190919_bmpGenerate_OK/20190919_bmpGenerate/out2.bmp)
+![Damier Check](/20190919_bmpGenerate/out.bmp)
+![Damier Check](/20190919_bmpGenerate/out1.bmp)
+![Damier Check](/20190919_bmpGenerate/out2.bmp)
 
 
 20190919_imwrite
