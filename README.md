@@ -29,5 +29,24 @@ The homework of Image Processing with C++ and OpenCV.
 
 ![Mask filter effect](/20191003_maskFilter/mask_effect.png)
 
+20191016_cannyAndSobel
 
+<p float="left">
+  <img alt="source" src="/20191016_cannyAndSobel/cap3_02a.bmp" width="200" />
+  <img alt="sobel" src="/20191016_cannyAndSobel/sobel.bmp" width="200" />
+  <img alt="canny" src="/20191016_cannyAndSobel/canny.bmp" width="200" />
+</p>
 
+20191031_blurAndRelief
+
+<p float="left">
+  <img alt="source" src="/20191031_blurAndRelief/cap3_02a.bmp" width="200" />
+  <img alt="sobel" src="/20191031_blurAndRelief/sobel.bmp" width="200" />
+  <img alt="median filtering" src="/20191031_blurAndRelief/median_filtering.bmp" width="200" />
+</p>
+
+<p float="left">
+  <img alt="source" src="/20191031_blurAndRelief/cap3_07a.bmp" width="200" />
+  <img alt="Radial_blur" src="/20191031_blurAndRelief/Radial_blur.bmp" width="200" />
+  <img alt="relief transformation" src="/20191031_blurAndRelief/relief transformation.bmp" width="200" />
+</p>
