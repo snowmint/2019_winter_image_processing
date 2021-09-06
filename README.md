@@ -193,3 +193,25 @@ The homework of Image Processing with C++ and OpenCV.
     <td><img alt="Get contour" src="/20191212_colorSpace/Use_V(Value)_get_contour.jpg" width="200" ></td>
   </tr>
 </table>
+
+20191219_colorConvert
+> Free-form deformation and Cylindrical_projection.
+
+<table>
+  <tr>
+    <td>Source</td>
+    <td>Color Reduce lv2</td>
+  </tr>
+  <tr>
+    <td><img alt="source" src="/20191219_colorConvert/HW12Test.png" width="400" ></td>
+    <td><img alt="Color Reduce lv2" src="/20191219_colorConvert/Color_Reduce_lv2.png" width="400" ></td>
+  </tr>
+  <tr>
+    <td>Color Reduce lv5</td>
+    <td>Color Reduce lv10</td>
+  </tr>
+  <tr>
+    <td><img alt="Color Reduce lv5" src="/20191219_colorConvert/Color_Reduce_lv5.png" width="400" ></td>
+    <td><img alt="Color Reduce lv10" src="/20191219_colorConvert/Color_Reduce_lv10.png" width="400" ></td>
+  </tr>
+</table>
