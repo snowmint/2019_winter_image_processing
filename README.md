@@ -235,3 +235,19 @@ The homework of Image Processing with C++ and OpenCV.
     <td><img alt="RGB histogram curve" src="/20191219_colorConvert/【RGB直方圖-自製】.jpg" width="800" ></td>
   </tr>
 </table>
+
+20191226_imageStitching
+> Image Stitching.
+
+<table>
+  <tr>
+    <td>Source1</td>
+    <td>Source2</td>
+    <td>Image Stitching GIF</td>
+  </tr>
+  <tr>
+    <td><img alt="Source1" src="/20191226_imageStitching/cap6_01a.bmp" width="400" ></td>
+    <td><img alt="Source2" src="/20191226_imageStitching/cap6_01b.bmp" width="400" ></td>
+    <td><img alt="Source2" src="/20191226_imageStitching/imageStitching.gif" width="400" ></td>
+  </tr>
+</table>
