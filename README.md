@@ -151,3 +151,45 @@ The homework of Image Processing with C++ and OpenCV.
     <td><img alt="Cylindrical_projection" src="/20191205_transform/2-Cylindrical_projection.bmp" width="200" ></td>
   </tr>
 </table>
+
+20191212_colorSpace
+> Free-form deformation and Cylindrical_projection.
+
+<table>
+  <tr>
+    <td>Source1: Parisyan</td>
+    <td>HSV - Skin capture</td>
+    <td>Use "V" Get contour</td>
+  </tr>
+  <tr>
+    <td><img alt="Parisyan" src="/20191212_colorSpace/Parisyan.jpg" width="200" ></td>
+    <td><img alt="Skin capture" src="/20191212_colorSpace/Parisyan_Skin_capture.jpg" width="200" ></td>
+    <td><img alt="Get contour" src="/20191212_colorSpace/Parisyan_Use_V(Value)_get_contour.jpg" width="200" ></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Source2: Diversity</td>
+    <td>HSV - Skin capture</td>
+    <td>Use "V" Get contour</td>
+  </tr>
+  <tr>
+    <td><img alt="Parisyan" src="/20191212_colorSpace/Diversity.jpg" width="200" ></td>
+    <td><img alt="Skin capture" src="/20191212_colorSpace/Diversity_Skin_capture.jpg" width="200" ></td>
+    <td><img alt="Get contour" src="/20191212_colorSpace/Diversity_Use_V(Value)_get_contour.jpg" width="200" ></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Source3: different</td>
+    <td>HSV - Skin capture</td>
+    <td>Use "V" Get contour</td>
+  </tr>
+  <tr>
+    <td><img alt="Parisyan" src="/20191212_colorSpace/different_skin_color.jpg" width="200" ></td>
+    <td><img alt="Skin capture" src="/20191212_colorSpace/Skin_capture.jpg" width="200" ></td>
+    <td><img alt="Get contour" src="/20191212_colorSpace/Use_V(Value)_get_contour.jpg" width="200" ></td>
+  </tr>
+</table>
