@@ -122,3 +122,32 @@ The homework of Image Processing with C++ and OpenCV.
     <td><img alt="shear transformation" src="/20191128_lagrange/shear_transformation.bmp" width="200" ></td>
   </tr>
 </table>
+
+20191205_transform
+> Free-form deformation and Cylindrical_projection.
+
+<table>
+  <tr>
+    <td>Source1: Chrysanthemum</td>
+    <td>Free-form deformation</td>
+    <td>Cylindrical_projection</td>
+  </tr>
+  <tr>
+    <td><img alt="Source1" src="/20191205_transform/Chrysanthemum.jpg" width="200" ></td>
+    <td><img alt="Free-form deformation" src="/20191205_transform/1-Free-form_deformation.bmp" width="200" ></td>
+    <td><img alt="Cylindrical_projection" src="/20191205_transform/1-Cylindrical_projection.bmp" width="200" ></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Source2: stripes</td>
+    <td>Free-form deformation</td>
+    <td>Cylindrical_projection</td>
+  </tr>
+  <tr>
+    <td><img alt="Source2" src="/20191205_transform/cap4_06a.bmp" width="200" ></td>
+    <td><img alt="Free-form deformation" src="/20191205_transform/2-Free-form_deformation.bmp" width="200" ></td>
+    <td><img alt="Cylindrical_projection" src="/20191205_transform/2-Cylindrical_projection.bmp" width="200" ></td>
+  </tr>
+</table>
