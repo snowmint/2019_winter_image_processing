@@ -195,23 +195,43 @@ The homework of Image Processing with C++ and OpenCV.
 </table>
 
 20191219_colorConvert
-> Free-form deformation and Cylindrical_projection.
+> Color Reduce, Dithering, and draw the RGB histogram curve.
 
 <table>
   <tr>
     <td>Source</td>
-    <td>Color Reduce lv2</td>
+    <td>Color Reduce lv=10</td>
   </tr>
   <tr>
     <td><img alt="source" src="/20191219_colorConvert/HW12Test.png" width="400" ></td>
-    <td><img alt="Color Reduce lv2" src="/20191219_colorConvert/Color_Reduce_lv2.png" width="400" ></td>
+    <td><img alt="Color Reduce lv10" src="/20191219_colorConvert/Color_Reduce_lv10.png" width="400" ></td>
   </tr>
   <tr>
-    <td>Color Reduce lv5</td>
-    <td>Color Reduce lv10</td>
+    <td>Color Reduce lv=5</td>
+    <td>Color Reduce lv=2</td>
   </tr>
   <tr>
     <td><img alt="Color Reduce lv5" src="/20191219_colorConvert/Color_Reduce_lv5.png" width="400" ></td>
-    <td><img alt="Color Reduce lv10" src="/20191219_colorConvert/Color_Reduce_lv10.png" width="400" ></td>
+    <td><img alt="Color Reduce lv2" src="/20191219_colorConvert/Color_Reduce_lv2.png" width="400" ></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Dithering: Bayer</td>
+    <td>Dithering: Shell</td>
+  </tr>
+  <tr>
+    <td><img alt="Dithering Bayer" src="/20191219_colorConvert/Dithering_Bayer.png" width="400" ></td>
+    <td><img alt="Dithering Shell" src="/20191219_colorConvert/Dithering_Shell.png" width="400" ></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>RGB histogram curve</td>
+  </tr>
+  <tr>
+    <td><img alt="RGB histogram curve" src="/20191219_colorConvert/【RGB直方圖-自製】.jpg" width="800" ></td>
   </tr>
 </table>
